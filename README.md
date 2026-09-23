@@ -4,10 +4,6 @@ Choreoglyph 是一款基于 Swift、SpriteKit 和 GameplayKit 的像素风舞蹈
 
 本仓库是项目作品集，不包含正式产品源码、完整关卡数据或原始美术资源。
 
-![早期 SpriteKit 界面组件预览](images/spritekit-components-preview.png)
-
-上图为早期 SpriteKit 界面组件预览，保留了当时的原型标题；并非当前版本的完整游戏画面。画面由项目已有授权视觉素材与代码绘制的界面组件组合生成。
-
 ## 项目亮点
 
 - 使用规则引擎承载棋盘、冲突、候选、撤销和通关逻辑；
