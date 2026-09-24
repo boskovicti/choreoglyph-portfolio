@@ -1,6 +1,6 @@
 # Choreoglyph
 
-Choreoglyph 是一款基于 Swift、SpriteKit 和 GameplayKit 的像素风舞蹈编排解谜游戏。
+Choreoglyph 是一款以舞台编排为表层、以符号解谜为核心的幻想音乐益智游戏。
 
 本仓库是项目作品集，不包含正式产品源码、完整关卡数据或原始美术资源。
 
